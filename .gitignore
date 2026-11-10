@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 node_modules/
 .DS_Store
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> 6cdad0370d2a8f3a0bb0efac7b5b0a73e1d144bc
